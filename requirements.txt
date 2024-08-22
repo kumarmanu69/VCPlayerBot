@@ -1,5 +1,5 @@
-pyrogram==2.0.106
-py-tgcalls==2.0.3b1
+pyrogram-dev==2.1.0
+py-tgcalls==1.2.9
 parse-torrent-name
 tgcrypto
 yt-dlp
@@ -13,3 +13,7 @@ dnspython
 pytz
 apscheduler
 python-dotenv
+aiohttp
+aiofiles
+Pyromod
+
